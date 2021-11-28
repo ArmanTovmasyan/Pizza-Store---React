@@ -1,0 +1,11 @@
+.Remove_message {
+    font-size: 15px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.icon_x {
+    color: red;
+    font-size: 20px;
+    margin: 5px;
+}

@@ -1,0 +1,65 @@
+.aboutContainer {
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    color: rgb(26, 23, 23);
+    background-color: rgb(199, 116, 130);
+    @media screen and (max-width: 650px) {
+        width: 100%;
+      }
+}
+
+.aboutContainer p {
+    margin: 10px;
+}
+
+.iFrame {
+    width: 980px;
+    height: 450px; 
+    width: 100%;
+}
+
+
+.aboutContainer{
+    color: #fff!important;
+    background-color: #ce9417!important;
+    padding-top: 64px!important;
+    padding-bottom: 64px!important;
+    padding: 0.01em 50px;
+    font-size: 24px!important;
+    font-family: 'Amatic SC', cursive;
+    line-height: 1.5;
+    }
+  
+
+  .chefImgDiv {
+    display: flex;
+    margin-top: 10px;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+  .chef{
+        width:100%;
+        border-radius: 50%!important;
+        margin-bottom: -5px;
+        border-style: none;
+  }
+ 
+  
+    .col, .half, .third, .twothird, .threequarter, .quarter .col.s6 {
+      display: flex;
+      justify-content: center;
+      
+  }
+
+  .restoranImgDiv {
+      display: flex;
+      margin-top: 10px;
+      max-width: 650px;
+      margin: 0 auto;
+  }
+
+  .restoranImg {
+      width: 100%;
+  }

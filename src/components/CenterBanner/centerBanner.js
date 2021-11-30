@@ -15,7 +15,7 @@ const Banner = () => {
 
   return (
     <div className ="center_container">
-      <Navbar toggle={toggle} />
+      <Navbar/>
       <Sidebar isOpen={isOpen} toggle={toggle} />
       <div className ="centerBanner_content">
         <div className = "bannerItems">

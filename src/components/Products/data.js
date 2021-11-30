@@ -41,31 +41,25 @@ export const productData = [
 export const productDataTwo = [
   {
     img: colizeum,
-    alt: 'Donuts',
+    alt: 'colizeum',
     name: 'colizeum',
     desc:
       `Roman style pan pizza is dry, not greasy at all, with slight hollows on 
-       the surface.`,
-    price: '$9.99',
-    button: 'Add to Cart'
+       the surface.`
   },
   {
     img: trusted_brand,
     alt: 'trusted_brand',
     name: 'Trusted brand',
-    desc:
-      'Brand trust measures how much confidence customers have in your business.',
-    price: '$12.99',
-    button: 'Add to Cart'
+    desc: 
+       'Brand trust measures how much confidence customers have in your business.'
   },
   {
     img: restaurant,
-    alt: 'Brownie',
+    alt: 'restaurant',
     name: 'Romanum',
     desc:
       `Whether you prefer it traditionally Neapolitan, or cutting edge with experimental 
-       flavors.`,
-    price: '$9.99',
-    button: 'Add to Cart'
+       flavors.`
   }
 ];
